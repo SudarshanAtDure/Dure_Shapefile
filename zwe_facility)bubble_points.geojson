@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Facility Name": "Test facility 1", "Latitude": -17.81312471, "Longitude": 31.04642694 }, "geometry": { "type": "Point", "coordinates": [ -17.81312471, 31.04642694 ] } },
+{ "type": "Feature", "properties": { "Facility Name": "Test facility 2", "Latitude": -18.0192924, "Longitude": 31.06734256 }, "geometry": { "type": "Point", "coordinates": [ -18.0192924, 31.06734256 ] } },
+{ "type": "Feature", "properties": { "Facility Name": "Test facility 3", "Latitude": -20.0955861, "Longitude": 31.618759 }, "geometry": { "type": "Point", "coordinates": [ -20.0955861, 31.618759 ] } },
+{ "type": "Feature", "properties": { "Facility Name": "Test facility 4", "Latitude": -19.64331311, "Longitude": 31.15709749 }, "geometry": { "type": "Point", "coordinates": [ -19.64331311, 31.15709749 ] } },
+{ "type": "Feature", "properties": { "Facility Name": "Test facility 5", "Latitude": -16.50385131, "Longitude": 29.68774348 }, "geometry": { "type": "Point", "coordinates": [ -16.50385131, 29.68774348 ] } },
+{ "type": "Feature", "properties": { "Facility Name": "Test facility 6", "Latitude": -18.35635176, "Longitude": 26.50372439 }, "geometry": { "type": "Point", "coordinates": [ -18.35635176, 26.50372439 ] } }
+]
+}
